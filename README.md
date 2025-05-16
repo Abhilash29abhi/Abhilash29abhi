@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abhilash</h1>
 <h3 align="center">A passionate frontend and backend developer from India</h3>
-<p align="right"> <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.eduauraa.com%2Fblog%2Fhow-to-become-a-programmer-in-india&psig=AOvVaw0tfyxMrXsu1V5HJ8x7HjSg&ust=1747483265130000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCIiTrdX4p40DFQAAAAAdAAAAABAE"/></p>
+<p align="right"> <img src="https://eduauraapublic.s3.ap-south-1.amazonaws.com/webassets/images/blogs/how-to-become-a-programmer-in-india.jpg"/></p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhilash29abhi&label=Profile%20views&color=0e75b6&style=flat" alt="abhilash29abhi" /> </p>
 
 - 🔭 I’m currently working on Project called **Augmented reality(AR)in shopping**
