@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **react,springboot..**
 
-- 📫 How to reach me **pathlavathabhitha@gmail.com**
+- 📫 How to reach me **abhilashpathlavath29@gmail.com.com**
 
 - ⚡ Fun fact **Iam funny**
 
