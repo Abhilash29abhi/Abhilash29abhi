@@ -3,7 +3,7 @@
 <p align="right"> <img src="https://eduauraapublic.s3.ap-south-1.amazonaws.com/webassets/images/blogs/how-to-become-a-programmer-in-india.jpg"/></p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhilash29abhi&label=Profile%20views&color=0e75b6&style=flat" alt="abhilash29abhi" /> </p>
 
-- 🔭 I’m currently working on Project called **Augmented reality(AR)in shopping**
+- 🔭 I’m currently working on Project called **voice based virtual assistance**
 
 - 🌱 I’m currently learning **Machine Learning**
 
